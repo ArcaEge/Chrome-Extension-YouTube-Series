@@ -1,7 +1,0 @@
-Canva filter code: 6d64646666358532
-Canva image transparency: 43
-
-[IBM Plex Mono 48 Bold] Developing a Chrome Extension
-___________________________________________
-[Montserrat 48] Part (XX)
-[Courier Prime 48 Bold] (Title)
